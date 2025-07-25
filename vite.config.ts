@@ -2,6 +2,6 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/engineer-portfolio/', 
+  base: '/embedded-engineer/', 
   plugins: [react()]
 });

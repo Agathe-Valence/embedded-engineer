@@ -8,6 +8,7 @@ import Skills from './components/Skills'
 import Experiences from './components/Experiences'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import Caroussel from './components/Caroussel'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Hero />
       <About />
       <Skills />
+      <Caroussel />
       <Projects />
       <Experiences />
       <Contact />

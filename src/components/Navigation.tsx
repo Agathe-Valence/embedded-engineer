@@ -11,7 +11,7 @@ const Navigation = () => (
           <a href="#about" className="uppercase text-cyan text-sm tracking-wider hover:text-fuchsia transition-colors duration-300 cursor-pointer">About</a>
           <a href="#skills" className="uppercase text-cyan tracking-wider hover:text-fuchsia transition-colors duration-300 cursor-pointer">Skills</a>
           <a href="#projects" className="uppercase text-cyan tracking-wider hover:text-fuchsia transition-colors duration-300 cursor-pointer">Projects</a>
-          <a href="#experience" className="uppercase text-cyan tracking-wider hover:text-fuchsia transition-colors duration-300 cursor-pointer">Experience</a>
+          <a href="#experiences" className="uppercase text-cyan tracking-wider hover:text-fuchsia transition-colors duration-300 cursor-pointer">Experience</a>
           <a href="#contact" className="uppercase text-cyan tracking-wider hover:text-fuchsia transition-colors duration-300 cursor-pointer">Contact</a>
         </div>
     </nav>
